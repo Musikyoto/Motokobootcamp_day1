@@ -55,3 +55,4 @@ If you are hosting frontend code somewhere without using DFX, you may need to ma
 # motokocamp_day1
 # Motokobootcamp_day1
 # Motokobootcamp_day1
+# Motokobootcamp_day1
